@@ -1,6 +1,6 @@
-# Exercise 4: Sumatory
+# Exercise 4: Summation
 
-Write a program that asks the user for a number, and calculates the sumatory from 0 to the given number, and then show a message to the user with the calculated value.
+Write a program that asks the user for a number, and calculates the summation from 0 to the given number, and then show a message to the user with the calculated value.
 
 ## Requirements
 
@@ -11,7 +11,7 @@ Write a program that asks the user for a number, and calculates the sumatory fro
 ## Example
 
 - Input given by the user: 10
-- Sumatory: 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = 55
+- Summation: 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = 55
 
 ## Resources
 

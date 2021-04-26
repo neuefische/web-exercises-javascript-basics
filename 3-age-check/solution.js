@@ -3,7 +3,6 @@ alert('Welcome to my sweet website, dear user.');
 const userName = prompt('What is your name?');
 
 const birthYear = prompt('What year were you born?', 2021);
-console.log(birthYear);
 
 const age = 2021 - birthYear;
 
